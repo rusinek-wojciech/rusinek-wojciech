@@ -1,6 +1,6 @@
 ### 👋 Hi  
 
-Currently mainly working with **Spring** and **React**
+I am currently mainly focused on **Spring** and **React**
 
 📈 Stats
 
