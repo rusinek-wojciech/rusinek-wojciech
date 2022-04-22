@@ -1,6 +1,6 @@
 ### 👋 Hi  
 
-Currently working with **Java - Spring** on backend and **Javascript - React** on front
+Currently mainly working with **Spring** and **React**
 
 📈 Stats
 
