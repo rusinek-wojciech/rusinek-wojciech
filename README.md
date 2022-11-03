@@ -1,6 +1,6 @@
 ### 👋 Hi  
 
-I am currently mainly focused on **Spring** and **React**
+I am currently mainly focused on **React**
 
 📈 Stats
 
